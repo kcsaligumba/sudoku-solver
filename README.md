@@ -42,7 +42,7 @@ To remove compiled files: `make clean`
 
 ## Example Output
 
- ------------------  
+\------------------  
 Input sudoku:  
  5 3 0 0 7 0 0 0 0  
  6 0 0 1 9 5 0 0 0  
@@ -63,4 +63,4 @@ Your output sudoku:
  9 6 1 5 3 7 2 8 4  
  2 8 7 4 1 9 6 3 5  
  3 4 5 2 8 6 1 7 9  
- ------------------  
+\------------------  
